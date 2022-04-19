@@ -3,7 +3,7 @@
 Marvel Page Homework with pagination and search bar
 
 - User can search for characters name and change language of the page. 
-- When user starts typing, it show 5 options that matches with letters that user typed.
+- When user starts typing, it shows 5 options that matches with letters that user typed.
 - If user click on a character name or a character listed on homepage, it redirects user to detail page of character.
 - Window scrolls up automatically when user clicks on a new page.
 - If user visits a new page, it fetchs data from Marvel Api and store in sessionStorage.
